@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-starter"
+  site-url: "https://buildLittleWorlds.github.io/nbdev-starter"
+  description: "A first attempt at creating with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/buildLittleWorlds/nbdev-starter"
